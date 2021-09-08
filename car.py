@@ -10,3 +10,6 @@ class Car:
 
     def secondcarkilometry(self):
         return "Hello in this car have 50000 kilometry"
+
+    def getprice(cena):
+        return cena

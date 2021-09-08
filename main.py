@@ -11,3 +11,4 @@ print(firstCar.name , firstCar.cena)
 
 print(firstCar.firstcarkilometry())
 print(secondCar.secondcarkilometry())
+print(firstCar.getprice())
